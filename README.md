@@ -1,2 +1,2 @@
 # Projeto03
-Projetinho testado com o Junit com a metodologia de TDD
+Projeto testado utilizando o JUnit e desenvolvido com a abordagem de Desenvolvimento Orientado a Testes (TDD)
